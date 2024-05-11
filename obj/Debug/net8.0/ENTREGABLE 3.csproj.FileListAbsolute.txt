@@ -1,0 +1,25 @@
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\appsettings.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\ENTREGABLE 3.exe
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\ENTREGABLE 3.deps.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\ENTREGABLE 3.runtimeconfig.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\ENTREGABLE 3.dll
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\bin\Debug\net8.0\ENTREGABLE 3.pdb
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.AssemblyInfoInputs.cache
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.AssemblyInfo.cs
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.csproj.CoreCompileInputs.cache
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets\msbuild.ENTREGABLE 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets\msbuild.build.ENTREGABLE 3.props
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ENTREGABLE 3.props
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ENTREGABLE 3.props
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\scopedcss\bundle\ENTREGABLE 3.styles.css
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.dll
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\refint\ENTREGABLE 3.dll
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.pdb
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ENTREGABLE 3.genruntimeconfig.cache
+C:\Users\maick\OneDrive\Escritorio\ENTREGABLE 3\obj\Debug\net8.0\ref\ENTREGABLE 3.dll
